@@ -1,1 +1,1 @@
-venv/          # Python 가상 환경 제외
+.venv/          # Python 가상 환경 제외
