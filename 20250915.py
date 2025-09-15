@@ -9,7 +9,7 @@ def hundred_digit_after_five_times():
     above_hundreds = fivetimes // 100
     hundreds = above_hundreds % 10
 
-    print("Original number is", a, ". Hundred-digit number after five times is", hundreds)
+    print("Hundred-digit number after five times is", hundreds)
 
 
 def ojt():
