@@ -35,7 +35,7 @@ def ojt():
     print(math.pow(num, 0.5)  == math.sqrt(num))
 
 def main():
-    ojt()
+    hundred_digit_after_five_times()
 
 
 if __name__ == "__main__":
